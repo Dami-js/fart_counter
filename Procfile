@@ -1,1 +1,1 @@
-web: gunicorn <fartProject>.wsgi --log-file -
+web: gunicorn fartProject.wsgi --log-file -
